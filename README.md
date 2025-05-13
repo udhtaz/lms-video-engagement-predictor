@@ -88,4 +88,4 @@ uvicorn app:app --host 0.0.0.0 --port 8000
   - `learner_completion_model.joblib`: Video Completion Prediction Model.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Apache License.
